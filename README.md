@@ -1,0 +1,2 @@
+# Paper App
+ Paper App is a creative and versatile digital workspace designed to help users sketch, draw, take notes, and organize their ideas in an intuitive, fluid environment. Known for its sleek and user-friendly interface, Paper App combines the simplicity of paper with the power of digital tools, making it an excellent choice for artists, designers, students, and anyone looking to express their creativity.
