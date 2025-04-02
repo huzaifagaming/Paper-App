@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>68178224565-ro9to71nn7unqj13s4nl44laub77cg7e.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.68178224565-ro9to71nn7unqj13s4nl44laub77cg7e</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyChCFyURASw7-QccKSCCrmSINz9liCYc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>68178224565</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fluttersAppOfAsad</string>
+	<key>PROJECT_ID</key>
+	<string>thecalamfalak</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thecalamfalak.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:68178224565:ios:ad562ec5e2ff485fbb65fc</string>
+</dict>
+</plist>
